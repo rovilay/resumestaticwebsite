@@ -1,0 +1,44 @@
+/* Basic Page Styling */
+body {
+    background: #ffffff;
+    font-family: sans-serif;
+    line-height: 1.6;
+    margin: 2rem;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+section {
+    margin-bottom: 2rem;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+/* Section-Specific Styling */
+.summary p {
+    text-align: justify;
+}
+
+.skills ul {
+    list-style: none;
+    padding: 0;
+}
+
+.job {
+    margin-bottom: 1.5rem;
+}
+
+.job-responsibilities {
+    list-style: disc;
+    padding-left: 20px;
+}
+
+.competencies ul {
+    list-style: disc;
+    padding-left: 20px;
+}
