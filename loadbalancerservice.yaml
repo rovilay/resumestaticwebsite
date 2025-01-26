@@ -33,4 +33,4 @@ spec:
     spec:
       containers:
       - name: frontend-container
-        image: rovilay/custom-httpd
+        image: rovilay/custom-httpd:latest
